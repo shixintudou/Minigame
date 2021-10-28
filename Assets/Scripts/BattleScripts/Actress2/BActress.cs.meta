@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Scripts/BattleScripts/Actress2/BActress.cs.meta
+guid: abf80eef85b4aa44cb5b2189cf5f02c7
+=======
+guid: d88a703da68d8b04584474858ce114b7
+>>>>>>> 66d825372c1e8e577e1aae0cba0fc6ed3df574a8:Assets/Scripts/BattleScripts/Actress1/BActressPrimary.cs.meta
+=======
+guid: abf80eef85b4aa44cb5b2189cf5f02c7
+>>>>>>> 66d825372c1e8e577e1aae0cba0fc6ed3df574a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
